@@ -78,7 +78,7 @@ background: red;
     background: red;
 }
 
-.lesson-four-task-nineteen div[class=btn-group]:focus-within {
+.lesson-four-task-nineteen button:focus-within {
  color: white;
  background: yellow;
 }
